@@ -11,9 +11,7 @@ Quality software design is what separates the good product from the great. I bel
 * 🌍  I'm based in Ajmer, Rajasthan
 * ✉️  You can contact me at [imtejasvi@gmail.com](mailto:imtejasvi@gmail.com)
 * 🚀  I'm currently working on [codebook-react](http://github.com/im-tejasvi/codebook-react)
-* 🧠  I'm learning about smart contracts
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  When I am not working, I love playing RPGs, watching Scorsese classics, and working my way through every album in my vast collection.
 
 ### Skills
 
