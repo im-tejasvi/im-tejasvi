@@ -4,7 +4,7 @@ Hi 👋 My name is Tejasvi Sharma
 Fullstack Developer
 -------------------------------------
 
-Born and raised in Ajmer, Rajasthan. Received my degree in Bachelor of Technology in computer science and engineering from SRM University in May 2019. I love coding, and being able to adjust and create things exactly how I want them to work.
+Born and raised in Ajmer, Rajasthan. Received my degree in Bachelor of Technology in Computer Science and Engineering from SRM University in May 2019. I love coding, and being able to adjust and create things exactly how I want them to work.
 
 Quality software design is what separates the good product from the great. I believe software should be clean, maintainable, easy to read, and most importantly: easy for the customer to use. Being the end-user of countless applications that were difficult to use and overly complex, I strive to make sure any product I produce doesn't fall within that bucket.
 
